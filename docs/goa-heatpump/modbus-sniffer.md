@@ -7,7 +7,7 @@ for a complete configuration.
 
 ```yaml
 external_components:
-  - source: github://pcr20/esphome@modbus_sniffer_v2
+  - source: github://pcr20/esphome-components@v0.1.0
     components: [modbus_sniffer]
 
 uart:
